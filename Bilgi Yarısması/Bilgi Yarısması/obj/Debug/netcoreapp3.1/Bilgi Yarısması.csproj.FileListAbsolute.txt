@@ -1,0 +1,16 @@
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.exe
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.deps.json
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.runtimeconfig.json
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.runtimeconfig.dev.json
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.dll
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\bin\Debug\netcoreapp3.1\Bilgi Yarısması.pdb
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.csprojAssemblyReference.cache
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi_Yarısması.Form1.resources
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi_Yarısması.Properties.Resources.resources
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.csproj.GenerateResource.cache
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.AssemblyInfoInputs.cache
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.AssemblyInfo.cs
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.csproj.CoreCompileInputs.cache
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.dll
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.pdb
+D:\UDEMY C# DERSLERİ\Bilgi Yarısması\Bilgi Yarısması\obj\Debug\netcoreapp3.1\Bilgi Yarısması.genruntimeconfig.cache
